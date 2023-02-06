@@ -1,6 +1,6 @@
 # Data visualization in Power BI
 
-Question: Create a month-to-date report and identify the regions and products that have decent performance
+**Question: Create a month-to-date report and identify the regions and products that have decent performance
 
 In this project, I cleaned, manipulated and visualized the month-to-date sales data from a FMCG brand. To be more specific, descriptive analysis was used to track the sales timeline by regions and products. Besides, the products which have decent performance was also identified in the report. I only used 1 tool in this project which was the Power BI.
 
@@ -65,7 +65,10 @@ All I had to do left was add more charts to answer the questions asked: "What ar
 
 ## Step 4: Conclusion
 > Overall, the brand did a really great job by surpassing the month-to-date target (80M in sales vs 67.50M in target). 
-> To be more specific, R1 and R2 region showed decent performance by excessing the deadline 19.43% and 21.12% respectively.On the other hand, given the same target, R3 region fell behind with a -14.76% compared to the deadline. 
+
+> To be more specific, R1 and R2 region showed decent performance by excessing the deadline 19.43% and 21.12% respectively. On the other hand, given the same target, R3 region fell behind with a -14.76% compared to the deadline. 
+
+
 > Furthermroe, there are 6 product which have outstanding sales which are Monte vani 55g, Monte Schoko 55g, Monte Drink 95g, Cheese Dâu - Chuối 50g, Cheese Dâu - Vani 50g, Phomai Sandwich 200g.
  
  
