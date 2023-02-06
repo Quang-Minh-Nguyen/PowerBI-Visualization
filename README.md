@@ -1,6 +1,6 @@
 # Data visualization in Power BI
 
-**Question: Create a month-to-date report and identify the regions and products that have decent performance
+**Question: Create a month-to-date report and identify the regions and products that have decent performance**
 
 In this project, I cleaned, manipulated and visualized the month-to-date sales data from a FMCG brand. To be more specific, descriptive analysis was used to track the sales timeline by regions and products. Besides, the products which have decent performance was also identified in the report. I only used 1 tool in this project which was the Power BI.
 
