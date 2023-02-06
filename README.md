@@ -17,8 +17,7 @@ It is very essential to create Fact tables and Dim tables for the data modeling 
 ![DIM + F](https://user-images.githubusercontent.com/118095331/216937259-21470faa-07d5-46c5-8415-fe0feace0648.jpg)
 
 Normally. to create DIM table, I only needed to select columns from Fact table, add thems as a new query, convert to table then remove duplicates which left with not-null and unique value.
-
-![f   dim](https://user-images.githubusercontent.com/118095331/216939487-6693181e-d6d3-49a0-a0a6-d700aacb7f33.png)
+![dim](https://user-images.githubusercontent.com/118095331/216941053-8cd0154c-8d19-4f4b-b767-3c529c75c84e.png)
 
 However in this case, I will need to create the calendar DIM table from scracth to have the month-to-date analysis. After I got the date column, I need to create the Weekday column to identify which day is the working day and which day is the resting day. Furthermore, I converted the working day as 1 and resting day as 0 for the time intelligence calculation later
 
