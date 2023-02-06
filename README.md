@@ -64,6 +64,8 @@ All I had to do left was add more charts to answer the questions asked: "What ar
 ![image](https://user-images.githubusercontent.com/118095331/216946434-4b150204-ca14-4b77-a5af-70b2dee685cc.png)
 
 ## Step 4: Conclusion
-> Overall, the brand did a really great job by surpassing the month-to-date target (80M in sales vs 67.50M in target). To be more specific, R1 and R2 region showed decent performance by excessing the deadline 19.43% and 21.12% respectively. On the other hand, given the same target, R3 region fell behind with a -14.76% compared to the deadline. Furthermroe, there are 6 product which have outstanding sales which are Monte vani 55g, Monte Schoko 55g, Monte Drink 95g, Cheese Dâu - Chuối 50g, Cheese Dâu - Vani 50g, Phomai Sandwich 200g.
+> Overall, the brand did a really great job by surpassing the month-to-date target (80M in sales vs 67.50M in target). 
+> To be more specific, R1 and R2 region showed decent performance by excessing the deadline 19.43% and 21.12% respectively.On the other hand, given the same target, R3 region fell behind with a -14.76% compared to the deadline. 
+> Furthermroe, there are 6 product which have outstanding sales which are Monte vani 55g, Monte Schoko 55g, Monte Drink 95g, Cheese Dâu - Chuối 50g, Cheese Dâu - Vani 50g, Phomai Sandwich 200g.
  
  
