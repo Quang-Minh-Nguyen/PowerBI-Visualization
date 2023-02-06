@@ -1,6 +1,6 @@
 # Data visualization in Power BI
 
-**Question: Create a month-to-date report and identify the regions and products that have decent performance**
+**Question: Create a month-to-date report and identify the regions and products that have decent performance.**
 
 In this project, I cleaned, manipulated and visualized the month-to-date sales data from a FMCG brand. To be more specific, descriptive analysis was used to track the sales timeline by regions and products. Besides, the products which have decent performance was also identified in the report. I only used 1 tool in this project which was the Power BI.
 
@@ -31,7 +31,7 @@ After I had all the Fact and DIM tables listed, it was very easy to create relat
 ![image](https://user-images.githubusercontent.com/118095331/216941943-5c49f9e0-a253-452f-94cc-2b7d6fb49ea2.png)
 
 ## Step 3: Data Visualizing
-The most important aspect in this report was the month-to-date sales tracking, which means there would be time intelligence calculation involved. When it comes to visualizing, I always start with making a table first if needed. This gives me a holistic view of what I am about to visualize. This was the final table, however, it required new metrics adn calculation, which I will explain later.
+The most important aspect in this report was the month-to-date sales tracking, which means there would be time intelligence calculation involved. When it comes to visualizing, I always start with making a table first if needed. This gives me a holistic view of what I am about to visualize. This was the final table, however, it required new metrics and calculation, which I will explain later.
 ![image](https://user-images.githubusercontent.com/118095331/216944898-a1bb6f5e-0bf0-4f2b-999a-95d19dd68a99.png)
 
 For Doanh Số Lũy Kế (Cummulative Revenue)
