@@ -34,25 +34,25 @@ After I had all the Fact and DIM tables listed, it was very easy to create relat
 The most important aspect in this report was the month-to-date sales tracking, which means there would be time intelligence calculation involved. When it comes to visualizing, I always start with making a table first if needed. This gives me a holistic view of what I am about to visualize. This was the final table, however, it required new metrics and calculation, which I will explain later.
 ![image](https://user-images.githubusercontent.com/118095331/216944898-a1bb6f5e-0bf0-4f2b-999a-95d19dd68a99.png)
 
-For Doanh Số Lũy Kế (Cummulative Revenue)
+**For Doanh Số Lũy Kế (Cummulative Revenue)**
 ```
 Doanh số lũy kế = 
  CALCULATE(
      SUM('F SALES'[SALES VALUE]),
      DATESMTD('DIM CALENDAR'[Ngày]))
 ```
-For Tổng Số Ngày Làm Việc (Total working days)
+**For Tổng Số Ngày Làm Việc (Total working days)**
 ```
 Tổng số ngày làm việc = 
  NETWORKDAYS(DATE(2021,5,1),DATE(2021,5,31),1,{DATE(2021,5,3)})
  ```
- For Số ngày đã làm việc (Cummulative working day)
+ **For Số ngày đã làm việc (Cummulative working day)**
  ```
  Số ngày đã làm việc = CALCULATE(
     SUM('DIM CALENDAR'[Làm Việc/Nghỉ]),
     DATESMTD('DIM CALENDAR'[Ngày]))
  ```
- For % deadline 
+ **For % deadline**
  ```
  % deadline = 'DIM CALENDAR'[Số ngày đã làm việc]/'DIM CALENDAR'[Tổng số ngày làm việc]
  ```
@@ -69,6 +69,6 @@ All I had to do left was add more charts to answer the questions asked: "What ar
 > To be more specific, R1 and R2 region showed decent performance by excessing the deadline 19.43% and 21.12% respectively. On the other hand, given the same target, R3 region fell behind with a -14.76% compared to the deadline. 
 
 
-> Furthermroe, there are 6 product which have outstanding sales which are Monte vani 55g, Monte Schoko 55g, Monte Drink 95g, Cheese Dâu - Chuối 50g, Cheese Dâu - Vani 50g, Phomai Sandwich 200g.
+> Furthermore, there are 6 product which have outstanding sales which are Monte vani 55g, Monte Schoko 55g, Monte Drink 95g, Cheese Dâu - Chuối 50g, Cheese Dâu - Vani 50g, Phomai Sandwich 200g.
  
  
