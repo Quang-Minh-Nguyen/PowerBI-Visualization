@@ -10,7 +10,7 @@ From my experience, I always want to look into the files before importing them. 
 
 ![combine](https://user-images.githubusercontent.com/118095331/216929465-4d91675b-d52a-4d6f-b8bb-1cbf7cf06a5a.png)
 
-Next, I imported 3 sheets into Power BI and began to transforme them. When it comes to transfoming the data, I always began with removing any null rows, promoting headers, making sure that the data type in each column was correct and removing duplicates. Adding new column(s) would depend on different cases. In this case, I only had to add 1 new column named NPP(Nhà phân phối) in the Target table for the modeling relationship.
+Next, I imported 3 sheets into Power BI and began to transform them. When it comes to transfoming the data, I always began with removing any null rows, promoting headers, making sure that the data type in each column was correct and removing duplicates. Adding new column(s) would depend on different cases. In this case, I only had to add 1 new column named NPP(Nhà phân phối) in the Target table for the modeling relationship.
 
 ![basic step](https://user-images.githubusercontent.com/118095331/216938532-aaa78e4e-f24f-4c05-9479-4b49a848af05.jpg)
 
